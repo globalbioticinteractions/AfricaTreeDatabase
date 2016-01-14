@@ -153,6 +153,15 @@
       "name": "DEF_timestamp",
       "titles": "DEF_timestamp",
       "datatype": "string"
+    },{
+      "name": "noName1",
+      "datatype": "string"
+    },{
+      "name": "noName2",
+      "datatype": "string"
+    },{
+      "name": "noName3",
+      "datatype": "string"
     }]
   }
 }
