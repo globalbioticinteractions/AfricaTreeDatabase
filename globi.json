@@ -8,7 +8,7 @@
     "columns": [{
       "name": "interactionTypeName",
       "titles": "intertype",
-      "datatype": "string",
+      "datatype": "string"
     }, {
       "name": "basisOfRecordName",
       "titles": "obstype",
